@@ -1,2 +1,2 @@
 # TeamProjectDocumentation
-This is Nicholas, Patrick, and Chloe Team Project Documentation
+This is Nicholas, Patrick, and Chloe Team Project's Documentation Repo
