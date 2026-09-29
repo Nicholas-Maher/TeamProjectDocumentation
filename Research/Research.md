@@ -1,7 +1,7 @@
 
 
 # 25/09/2026 - Tomas
-## Marktext / Markdown Better Text Editor ?
+## MarkText / Markdown Better Text Editor ?
 
 In the group had small discussion about word vs markdown, and we kind agreed to try with markdown due to portability and ease of maintain. It is particularly useful for documentation, notes and works very well with git.
 
@@ -9,10 +9,18 @@ Few aspects such including code snippets with easy copy paste functionality from
 
 Visual studio code can easily edit markdown files jus need additional extension 'Markdown All in One' to edit and preview.
 
-For local editing markdown files can be used open source app [Marktext](https://github.com/marktext/marktext)
+For local editing markdown files can be used open source app [MarkText](https://github.com/marktext/marktext)
 
 Document to help starting with basic syntax: [Markdown Cheat Sheet](Documents/MarkText_Markdown_Cheat_Sheet.pdf)
 
+
+# 29/09/2026 ChloeW
+
+since our last meeting I came up with a concept for the playable character and came up with a simple sword, her clothes where inspired by the main character Mebh from the movie WolfWalkers. I did a simple design for the reason of the animation for the characters movement
+
+![main character Mebh from the movie WolfWalkers i took inspo from](Rimages/MebhWolfWalkers.png)
+
+![the character concept sheet](Rimages/characterConcept.png)
 
 
 # 29/09/2026 - Tomas
