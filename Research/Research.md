@@ -11,6 +11,7 @@ Visual studio code can easily edit markdown files jus need additional extension 
 For local editing markdown files can be used open source app [Marktext](https://github.com/marktext/marktext)
 
 Document to help starting with basic syntax: [Markdown Cheet Sheet](Documents/MarkText_Markdown_Cheat_Sheet.pdf)
+<<<<<<< HEAD
 
 
 # 29/09/2026 ChloeW
@@ -20,3 +21,5 @@ since our last meeting I came up with a concept for the playable character and c
 ![main character Mebh from the movie WolfWalkers i took inspo from](Rimages/MebhWolfWalkers.png)
 
 ![the character concept sheet](Rimages/characterConcept.png)
+=======
+>>>>>>> 3a114ad590db0d36522c0c5bfaff31c483210514
