@@ -47,7 +47,7 @@ One resource I found was Envato Elements, which contains a large collection of g
 https://elements.envato.com/sound-effects/game-sounds
  
 Some useful categories I found:
-- User Interface (UI) sounds
+- User Interface sounds
 - Character movement and footsteps
 - Combat and weapon effects
 - Ambient environment sounds
