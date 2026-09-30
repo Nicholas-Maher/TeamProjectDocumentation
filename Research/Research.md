@@ -35,3 +35,43 @@ Primary my objective was to find most popular resolution used in pc games, and t
 So far most popular are 1920 x 1080 and fallowing by 2560 x 1440. That means both those screen resolutions are majority and combine them takes more than 70% of all gaming devices. As speaking about aspect ratio most popular are 16:9 and recently increasing 21:9 as more introduced into market Ultra wide monitors or devices.
 
 View more recent data: [Steam Hardware Survey](https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam)
+
+# 29th/09/2026 - Nicholas (K00324330)
+## Sounds Effects that Used In game Enviorment and Game Play
+my task was to research what sounds effects and audio can be used through the game Project.
+i looked at different websites that offer game audio and compared the quality, variety and accessibility of the sounds available.
+ 
+One resource I found was Envato Elements, which contains a large collection of game-related sound effects including UI sounds, footsteps, combat effects, ambient sounds and background music. Having a dedicated library of sounds could help improve the overall player experience and make the game feel more immersive.
+ 
+## Envato Elements Game Sounds
+https://elements.envato.com/sound-effects/game-sounds
+ 
+Some useful categories I found:
+- User Interface (UI) sounds
+- Character movement and footsteps
+- Combat and weapon effects
+- Ambient environment sounds
+- Background music
+- Achievement and reward sounds 
+
+### Pixabay Sound Effects
+https://pixabay.com/sound-effects/search/gaming/
+ 
+Pixabay contains a large collection of free sound effects including:
+- Menu and button sounds
+- Character movement effects
+- Game notifications and rewards
+- Arcade and retro game sounds
+- Background ambience and music loops
+ 
+One benefit of Pixabay is that sounds can be previewed and downloaded quickly, making it useful when testing guys aswell.
+
+### Mixkit Game Sound Effects
+https://mixkit.co/free-sound-effects/game/
+ 
+Mixkit provides a range of free game sound effects that can be used in different gameplay situations. Some categories available include:
+- Interface and menu sounds
+- Action and combat effects
+- Character movement sounds
+- Retro game effects
+- Environmental audio
