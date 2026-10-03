@@ -75,3 +75,40 @@ Mixkit provides a range of free game sound effects that can be used in different
 - Character movement sounds
 - Retro game effects
 - Environmental audio
+
+
+# 03/10/2026 - Tomas
+## Assets, licenses and  Free does not automatically mean free tu use
+
+Ill start from licensing because its important understand before ground work started, that free its not always free, ill brake it down some differences, but always need to double check individually the license it self before proceeding.
+
+
+| License | Use for Commercial game | Require attribution | Can be modified | Issues |
+| :------ | :------: | :------: | :------: | :------ |
+| CCO | Yes | Not Required | Yes | Mostly None |
+| MIT | Yes | Usually Required | Yes | Mostly None |
+| CC BY | Yes | Required | Yes | Need Attention |
+| GPL | Mostly Yes | Required With Conditions | Yes | Need clear understanding before use |
+| Free for Personal use | No | Sometimes | Usually Not | To complicated to use |
+| Free for non-commercial | No | Sometimes | Usually Not | To complicated to use |
+| Royalty-free | Mostly Yes | Sometimes | Usually Not | Need clear understanding before use |
+| No license stated | No | Sometimes | Mostly | To complicated to use |
+
+
+Thats list of sites can be used to gather some assets for our game
+
+- [Kenny](https://kenney.nl/)
+
+kenny very useful site for starter developers because the assets are released under CCO which it means you can use, modify and distribute them in commercial game without attribution. Mostly those assets are gathered by contribution of community to help others to start. Kenny library its not huge but contains wide range of 2D sprites from Characters to even UI elements like buttons.
+
+
+
+- [Itch.io](https://itch.io)
+  
+This probably largest place comparing to kenny website, but important thing to remember that each creator choose the license which serves best interest to them and sometimes do not full disclose the license itself so manual research required. Good thing about itch.io that assets can be search by license type so can be selected to view only assets with CCO license.
+
+
+
+- [OpenGameArt](https://opengameart.org/)
+
+This is another big one, but same as Itch.io need to be careful with license, advantage has a lot of content, but disadvantage that every assets has to be checked for license because it might be difference even creator are the same, so each asset can have different license.
