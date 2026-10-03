@@ -77,6 +77,19 @@ Mixkit provides a range of free game sound effects that can be used in different
 - Environmental audio
 
 
+# 2nd/10/2026 - Nicholas (K00324330)
+## Game Notes Level Desgin Research findings
+- level lenght should be designed around the players speed and level desgin.
+### these is what i found out for better levels ond longer gameplay when researching
+- Tutorial level: 20-30 sec
+- Normal levels : 45-75 sec
+- Long levels: 60:100 sec
+- whole Game between 100-300  thats include every thing combat, enemies,junp, and what every
+
+- different tetuxers size may require configubale collisions depends on the assets and movements of assets.
+- if we want longer level and bigger assets we need res 1280X720 or 1920X1080p which we have i think need to check on that again.
+
+
 # 03/10/2026 - Tomas
 ## Assets, licenses and  Free does not automatically mean free tu use
 
