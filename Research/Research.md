@@ -125,3 +125,8 @@ This probably largest place comparing to kenny website, but important thing to r
 - [OpenGameArt](https://opengameart.org/)
 
 This is another big one, but same as Itch.io need to be careful with license, advantage has a lot of content, but disadvantage that every assets has to be checked for license because it might be difference even creator are the same, so each asset can have different license.
+
+# 06/10/2026 - Patrick
+## Player Movement Update
+
+I researched ways to make our Player increase movement speed incrementally each frame until max speed when a movement key is held down rather than instantly being at time speed and also a way to make the slide quickly to a stop rather than instantaneously. I found this [Autodesk Instructables - Advanced Platformer Movement](https://www.instructables.com/Advanced-Platformer-Movement/) guide which showed ways to do both in Lua but it acts as helpful pseudocode.
