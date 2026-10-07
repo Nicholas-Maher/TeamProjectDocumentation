@@ -130,3 +130,10 @@ This is another big one, but same as Itch.io need to be careful with license, ad
 ## Player Movement Update
 
 I researched ways to make our Player increase movement speed incrementally each frame until max speed when a movement key is held down rather than instantly being at time speed and also a way to make the slide quickly to a stop rather than instantaneously. I found this [Autodesk Instructables - Advanced Platformer Movement](https://www.instructables.com/Advanced-Platformer-Movement/) guide which showed ways to do both in Lua but it acts as helpful pseudocode.
+
+# 07/10/2026 - Patrick
+## Update to .gitignore file to ignore all unnecessary files and folders made by VS 2022
+
+I found an official .gitignore template for Visual Studio on the official github repo. It is available here - [gitignore/VisualStudio.gitignore at main · github/gitignore](https://github.com/github/gitignore/blob/main/VisualStudio.gitignore).
+
+I compared the file types it ignored to the file types created by Visual Studio 2022 in the x64 folders of our project folder and only included the unnecessary files that are project created in the .gitignore file.
