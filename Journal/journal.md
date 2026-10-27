@@ -56,9 +56,19 @@ Had small discussion about progress we done, review some features that we able t
 Fixed some issues with the template, including changes to the character which now has health, created new class entity which responsible for enemies creation and started plan for creation additional class for enemies behavior inside level environment. Additional progress whit drawings how we perceive visually levels and obstacles inside them.
 
 
-# 19/10/2026
+# 20/10/2026
 
 ## Meeting
+Chat about creating documents community plan and project management plan, we start research about templates for those documents. Starting discussing about character main ability, trying describe our vision how would look like, what effect will have on character or the enemies including visual look of environment of the level
 
+
+## Progress
+Multiple fix including code which makes transition between animations and different states of the player, additionally health bar was missing after merging between branches inside git hub so fix was done to review code and find missing parts. 
+
+
+# 23/10/2026
+
+## Meeting
+Review our plan for next what has to be done, so to speak bear minimum we have to have character health and strength for attack also start building special ability, enemies and their behavior, some progression  to make character stronger, need some work for the level itself because at the moment is very plain.  
 
 ## Progress
