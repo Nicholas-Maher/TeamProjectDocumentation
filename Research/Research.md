@@ -138,6 +138,11 @@ I found an official .gitignore template for Visual Studio on the official github
 
 I compared the file types it ignored to the file types created by Visual Studio 2022 in the x64 folders of our project folder and only included the unnecessary files that are project created in the .gitignore file.
 
-# 14/10/2026 - Tomas
-## Enemies and their connection with the game
+# 27/10/2026 - Patrick
+## Communications Plan Document Template Research
 
+I found two websites with templates and blended the two into the file I have called "Communications Plan" and uploaded it into the Documents folder. 
+
+Institute of Education Sciences University of Manchester template. It is available here - [Communications planning template.pdf](https://documents.manchester.ac.uk/display.aspx?DocID=26244)
+
+ProjectManager.com website template. I downloaded the Word file that was available on the page and uploaded it into the Documents folder as a guide. It is available here - [Communication Plan Template for Word and Excel - Free Download](https://www.projectmanager.com/templates/communications-plan-template)
