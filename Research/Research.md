@@ -137,3 +137,7 @@ I researched ways to make our Player increase movement speed incrementally each 
 I found an official .gitignore template for Visual Studio on the official github repo. It is available here - [gitignore/VisualStudio.gitignore at main · github/gitignore](https://github.com/github/gitignore/blob/main/VisualStudio.gitignore).
 
 I compared the file types it ignored to the file types created by Visual Studio 2022 in the x64 folders of our project folder and only included the unnecessary files that are project created in the .gitignore file.
+
+# 14/10/2026 - Tomas
+## Enemies and their connection with the game
+

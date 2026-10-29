@@ -72,3 +72,23 @@ Multiple fix including code which makes transition between animations and differ
 Review our plan for next what has to be done, so to speak bear minimum we have to have character health and strength for attack also start building special ability, enemies and their behavior, some progression  to make character stronger, need some work for the level itself because at the moment is very plain.  
 
 ## Progress
+This week, our group worked on both project documentation and game development. We researched suitable templates for the communication plan and selected an appropriate structure. A blank document was created with the necessary headings and saved in the Documents folder, providing a foundation for completing the communication plan.
+
+Alongside the documentation, we continued developing the game's enemy system. We worked on designing the class structure for different enemy types, their behaviors, and how they interact with the game environment and player.
+
+
+# 27/10/2026
+
+## Meeting
+This week, our group discussed ideas for player progression, elemental powers, and weapon upgrades. We considered adding hidden collectibles, such as magical orbs, throughout the levels to reward exploration and allow players to upgrade their elemental abilities.
+
+We also proposed a three-stage sword upgrade system, where the weapon becomes stronger and changes appearance as the player progresses. The sword would feature thorns or barbs to match the forest guardian theme.
+
+Additionally, we discussed introducing a power compass inspired by Celeste. It would appear after unlocking the first elemental power, display the currently selected ability, and allow players to switch between unlocked powers. When the power meter is full, the selected element would determine the activated special ability.
+
+## Progress
+We implemented a partially functional main menu using online resources and code examples, testing different approaches before removing unnecessary code and keeping the parts required for the menu to work. The menu still needs further testing and improvements, and we will need to check that the changes work correctly across the group.
+
+We also made progress in addressing the character's bouncing glitch. Although the issue was partially resolved, the changes introduced a problem with the jumping mechanic, which requires further investigation and testing.
+
+In addition, we developed Levels 2 and 3 to a basic, workable state. Both levels still require adjustments, bug fixes, and further development before they are ready for completion. Our next steps are to improve the menu, resolve the jumping issue, and continue refining the levels to ensure the game functions as intended.
